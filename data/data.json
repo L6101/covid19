@@ -2646,14 +2646,14 @@
         {
           "district": "Surat",
           "notes": "",
-          "active": 2765,
-          "confirmed": 19881,
-          "deceased": 615,
-          "recovered": 16501,
+          "active": 16542,
+          "confirmed": 120775,
+          "deceased": 1650,
+          "recovered": 99468,
           "delta": {
-            "confirmed": 270,
-            "deceased": 3,
-            "recovered": 213
+            "confirmed": 1656,
+            "deceased": 30,
+            "recovered": 2892
           }
         },
         {
